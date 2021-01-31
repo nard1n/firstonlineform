@@ -1,2 +1,2 @@
 # firstonlineform
-this repo was created for practice
+Repo I created for practice to link a page form with MailChimp
